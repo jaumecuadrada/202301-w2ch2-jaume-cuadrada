@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/js/index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaumecuadrada/202301-w2ch2-jaume-cuadrada.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaumecuadrada/202301-w2ch2-jaume-cuadrada/issues"
+  },
+  "homepage": "https://github.com/jaumecuadrada/202301-w2ch2-jaume-cuadrada#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
