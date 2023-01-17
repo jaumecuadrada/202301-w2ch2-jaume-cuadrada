@@ -1,7 +1,6 @@
 import strictEquals from "./strictEquals.js";
 
-let valueA;
-let valueB;
+let valueA = NaN;
+let valueB = NaN;
 
 console.log(strictEquals(valueA, valueB));
-console.log("HOLA");
